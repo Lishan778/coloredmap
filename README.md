@@ -8,6 +8,6 @@ Colored Map Script for Fivem Server
 
 -Go to your server.cfg
 
--Add a new line : start coloredmap
+-Add a new line : ensure coloredmap
 
 -NOW YOU CAN RESTART/START YOUR SERVER AND SEE THE CHANGES
